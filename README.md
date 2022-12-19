@@ -1,3 +1,1 @@
 # SoftUni-Software-Engineering
-
-Hello
